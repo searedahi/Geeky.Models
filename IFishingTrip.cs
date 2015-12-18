@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Geeky.Models
+namespace Geeky.Models.Boating
 {
     public interface IFishingTrip : IGeekyThing
     {

@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geeky.Models", "Geeky.Models.csproj", "{C23C64DC-1D4B-43F0-88DC-2D19F8FA22F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geeky.Models.Boating", "Geeky.Models.Boating.csproj", "{C23C64DC-1D4B-43F0-88DC-2D19F8FA22F0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

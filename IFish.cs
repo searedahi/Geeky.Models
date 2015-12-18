@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Geeky.Models
+namespace Geeky.Models.Boating
 {
     public interface IFish : IGeekyThing
     {

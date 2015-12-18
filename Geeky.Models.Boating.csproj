@@ -7,8 +7,8 @@
     <ProjectGuid>{C23C64DC-1D4B-43F0-88DC-2D19F8FA22F0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Geeky.Models</RootNamespace>
-    <AssemblyName>Geeky.Models</AssemblyName>
+    <RootNamespace>Geeky.Models.Boating</RootNamespace>
+    <AssemblyName>Geeky.Models.Boating</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <NuGetPackageImportStamp>
